@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "332975906940",
+    "project_id": "pharmeasy-8b949",
+    "storage_bucket": "pharmeasy-8b949.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332975906940:android:62afb3dfa9cd996a7aa9f9",
+        "android_client_info": {
+          "package_name": "com.huit.pharmeasy"
+        }
+      },
+      "oauth_client": [
+        {
+          
+        },
+        {
+          "client_id": "668965673854-q0ceredo4h3m7j7i10ff9p8b9q4vq51n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo9RYFS9rPsb-bo716KKdSY1fEFibbElw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
