@@ -1,21 +1,7 @@
-# DrugStore
-
-<img src="screen/drugstore.png"/>
-
-DrugStore - Android app is the client side app for ordering medicines.  
-It is free and open source.  
-DrugStore for Android is a companion app for [Drugstore Web](https://drugstore.frontendsourcecode.com/).  
-DrugStore WebApp is for administration of orders on the admin(DrugStore) side.
+# PharmEasy
 
 
-
-## About
-
-With this app, customers can order medicines from the pharmacy it is connected to.
-The pharmacy has to host the companion administration web-app [Drugstore Web](https://drugstore.frontendsourcecode.com/).
-
-
-## Admin Details
+# API Details
 
 [Admin Panel](https://drugstore.frontendsourcecode.com/)
 
@@ -45,19 +31,19 @@ The android app lets you:
 
 | Splash | Login | Register |
 | ------ | ---- | ------ |
-|<img src="screen/1.png" width="230" height="500"/>|<img src="screen/login.png" width="230" height="500"/>|<img src="screen/register.png" width="230" height="500"/>|
+
 
 | Home | Category | Detail |
 | ------ | ---- | ------ |
-|<img src="screen/2.png" width="230" height="500"/>|<img src="screen/5.png" width="230" height="500"/>|<img src="screen/4.png" width="230" height="500"/>|
+
 
 | Products | Cart | Checkout |
 | ------ | ---- | ------ |
-|<img src="screen/6.png" width="230" height="500"/>|<img src="screen/7.png" width="230" height="500"/>|<img src="screen/9.png" width="230" height="500"/>|
+
 
 | Order | Order Details | Prescription |
 | ------ | ---- | ------ |
-|<img src="screen/11.png" width="230" height="500"/>|<img src="screen/12.png" width="230" height="500"/>|<img src="screen/13.png" width="250" height="500"/>|
+
 
 
 ## Permissions
@@ -67,9 +53,6 @@ On Android versions prior to Android 6.0, pharmrmacy android requires the follow
 - Read and write access to external storage - To access prescription images
 - Camera access - To capture image of prescription
 - Receive sms - To access OTP code and verify automatically
-
-## Contributing
-You are free to use and modify the app.
 
 
 ## License
