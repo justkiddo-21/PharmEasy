@@ -233,6 +233,22 @@ public class MainActivity extends BaseActivity
 
     }
 
+    protected void debugUserInfo(){
+        Log.i("User =>> ", "ID: " + user.getId());
+        Log.i("User =>> ", "Name: " + user.getName());
+        Log.i("User =>> ", "Area: " + user.getArea());
+        Log.i("User =>> ", "Address: " + user.getAddress());
+        Log.i("User =>> ", "State: " + user.getState());
+        Log.i("User =>> ", "City: " + user.getCity());
+        Log.i("User =>> ", "Mobile: " + user.getMobile());
+        Log.i("User =>> ", "Email: " + user.getEmail());
+        Log.i("User =>> ", "Password: " + user.getPassword());
+        Log.i("User =>> ", "Reset code: " + user.getReset_code());
+        Log.i("User =>> ", "Firebase token: " + user.getFirebase_token());
+        Log.i("User =>> ", "OTP: " + user.getOtp());
+        Log.i("User =>> ", "Verified?: " + user.getVerified());
+        Log.i("User =>> ", "Token: " + user.getToken());
+    }
 
     @SuppressLint("RestrictedApi")
     @Override
@@ -261,6 +277,10 @@ public class MainActivity extends BaseActivity
         Gson gson = new Gson();
         userString = localStorage.getUserLogin();
         user = gson.fromJson(userString, User.class);
+        //Toast.makeText(this.getApplicationContext(), "[DBG] User token: " + user.getToken().toString(), Toast.LENGTH_LONG).show();
+
+        /* DEBUG USER */
+        debugUserInfo();
 
         DrawerLayout drawer = findViewById(R.id.drawer_layout);
         ActionBarDrawerToggle toggle = new ActionBarDrawerToggle(

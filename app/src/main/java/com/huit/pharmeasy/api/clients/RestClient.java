@@ -15,18 +15,15 @@ import okhttp3.OkHttpClient;
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
-
 /**
  * RetrofitExample
- * https://github.com/quintuslabs/RetrofitExample
- * Created on 18-Feb-2019.
- * Created by : Santosh Kumar Dash:- http://santoshdash.epizy.com
  */
 
 public class RestClient {
 
 // public static final String BASE_URL = "http://192.168.1.105/drugstore/";
  public static final String BASE_URL = "https://drugstore.frontendsourcecode.com/";
+//public static final String BASE_URL = "https://api.kiddosreslab.tech/";
 
     public static Retrofit RETROFIT = null;
     public static Retrofit RETROFIT1 = null;

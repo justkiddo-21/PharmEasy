@@ -11,10 +11,7 @@ import okhttp3.ResponseBody;
 import okio.Buffer;
 
 /**
- * RetrofitExample
- * https://github.com/quintuslabs/RetrofitExample
- * Created on 18-Feb-2019.
- * Created by : Santosh Kumar Dash:- http://santoshdash.epizy.com
+ * Retrofit
  */
 
 public class LoggingInterceptor implements Interceptor {
