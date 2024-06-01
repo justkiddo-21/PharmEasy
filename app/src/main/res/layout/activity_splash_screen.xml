@@ -5,10 +5,11 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".activity.SplashScreen"
-    android:background="@color/colorPrimary">
+    android:background="@color/white">
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent">
+
         <androidx.cardview.widget.CardView
             android:layout_width="150dp"
             android:layout_height="150dp"
