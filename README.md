@@ -59,3 +59,4 @@ On Android versions prior to Android 6.0, pharmrmacy android requires the follow
 
 This application is released under GNU GPLv3 (see [LICENSE](LICENSE)).
 Some of the used libraries are released under different licenses.
+
