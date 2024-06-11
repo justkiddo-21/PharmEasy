@@ -10,131 +10,75 @@
     },
     {
       "id": 3,
-      "State": "Arunachal Pradesh"
+      "State": "Bình Dương"
     },
     {
       "id": 4,
-      "State": "Assam"
+      "State": "Đồng Nai"
     },
     {
       "id": 5,
-      "State": "Bihar"
+      "State": "Bình Thuận"
     },
     {
       "id": 6,
-      "State": "Chandigarh"
+      "State": "Đà Nẵng"
     },
     {
       "id": 7,
-      "State": "Chhattisgarh"
+      "State": "Khánh Hòa"
     },
     {
       "id": 8,
-      "State": "Dadra and Nagar Haveli"
+      "State": "Lâm Đồng"
     },
     {
       "id": 9,
-      "State": "Delhi"
+      "State": "Bắc Giang"
     },
     {
       "id": 10,
-      "State": "Goa"
+      "State": "Hải Phòng"
     },
     {
       "id": 11,
-      "State": "Gujarat"
+      "State": "Cần Thơ"
     },
     {
       "id": 12,
-      "State": "Haryana"
+      "State": "Thừa Thiên Huế"
     },
     {
       "id": 13,
-      "State": "Himachal Pradesh"
+      "State": "Bà Rịa - Vũng Tàu"
     },
     {
       "id": 14,
-      "State": "Jammu and Kashmir"
+      "State": "Quảng Ninh"
     },
     {
       "id": 15,
-      "State": "Jharkhand"
+      "State": "Hải Dương"
     },
     {
       "id": 16,
-      "State": "Karnataka"
+      "State": "Thái Bình"
     },
     {
       "id": 17,
-      "State": "Karnatka"
+      "State": "Nghệ An"
     },
     {
       "id": 18,
-      "State": "Kerala"
+      "State": "Thanh Hóa"
     },
     {
       "id": 19,
-      "State": "Madhya Pradesh"
+      "State": "Quảng Bình"
     },
     {
       "id": 20,
-      "State": "Maharashtra"
-    },
-    {
-      "id": 21,
-      "State": "Manipur"
-    },
-    {
-      "id": 22,
-      "State": "Meghalaya"
-    },
-    {
-      "id": 23,
-      "State": "Mizoram"
-    },
-    {
-      "id": 24,
-      "State": "Nagaland"
-    },
-    {
-      "id": 25,
-      "State": "Odisha"
-    },
-    {
-      "id": 26,
-      "State": "Puducherry"
-    },
-    {
-      "id": 27,
-      "State": "Punjab"
-    },
-    {
-      "id": 28,
-      "State": "Rajasthan"
-    },
-    {
-      "id": 29,
-      "State": "Tamil Nadu"
-    },
-    {
-      "id": 30,
-      "State": "Telangana"
-    },
-    {
-      "id": 31,
-      "State": "Tripura"
-    },
-    {
-      "id": 32,
-      "State": "Uttar Pradesh"
-    },
-    {
-      "id": 33,
-      "State": "Uttarakhand"
-    },
-    {
-      "id": 34,
-      "State": "West Bengal"
+      "State": "Quảng Trị"
     }
   ]
 }

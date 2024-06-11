@@ -204,7 +204,7 @@ public class PopularProductAdapter extends RecyclerView.Adapter<PopularProductAd
                 intent.putExtra("title", product.getName());
                 intent.putExtra("image", gson.toJson(product.getImages()));
                 intent.putExtra("price", product.getPrice());
-                intent.putExtra("currency", product.getCurrency());
+                intent.putExtra("currency", "VND ");
                 intent.putExtra("attribute", product.getAttribute());
                 intent.putExtra("discount", product.getDiscount());
                 intent.putExtra("description", product.getDescription());
